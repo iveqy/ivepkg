@@ -1,0 +1,6 @@
+openssl is a requirement.
+
+Just type make and move ivepkg to the desired path.
+
+Copy ivepkg_db.sqlite3 to /var/local/ivepkg/ivepkg_db.sqlite3
+

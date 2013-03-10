@@ -1,0 +1,7 @@
+filecount
+check system
+handle seperate build dir.
+dependencies
+handle install to dirs that are symlinked
+remove packages
+add files later

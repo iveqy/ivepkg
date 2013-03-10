@@ -1,0 +1,12 @@
+ivepkg is (aims to be) a package manager.
+
+The focus is homebuilt distributions like Linux from scratch. Therefore ivepkg
+has no repository or network abilities (as of now) but is specialized on
+installing tarballs to a system.
+
+The key features is an easy to use database (sqlite3) and sha1-checksum of every
+installed file. This makes it impossible to not know about which files has been
+altered, for example by a malicious attack.
+
+This project is still very young. Contributions is welcommed as patches to
+iveqy@iveqy.com or pull-requests.
